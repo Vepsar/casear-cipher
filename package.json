@@ -1,0 +1,21 @@
+{
+  "name": "caesar",
+  "version": "1.0.0",
+  "description": "caesar chiper",
+  "main": "caesar.js",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "caesar",
+    "chiper"
+  ],
+  "author": "Vepsar",
+  "license": "ISC"
+}
